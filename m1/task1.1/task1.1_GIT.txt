@@ -1,0 +1,23 @@
+e1413c2 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+24d173c HEAD@{1}: checkout: moving from develop to master
+e1413c2 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): index from styles appended under index from images
+ba9a38d (origin/images, images) HEAD@{3}: merge images: Fast-forward
+fbffe84 HEAD@{4}: checkout: moving from styles to develop
+0ece4a8 (origin/styles, styles) HEAD@{5}: commit: Changed text in index.html
+cf43dc0 HEAD@{6}: checkout: moving from images to styles
+ba9a38d (origin/images, images) HEAD@{7}: checkout: moving from develop to images
+fbffe84 HEAD@{8}: checkout: moving from styles to develop
+cf43dc0 HEAD@{9}: checkout: moving from images to styles
+ba9a38d (origin/images, images) HEAD@{10}: checkout: moving from styles to images
+cf43dc0 HEAD@{11}: checkout: moving from images to styles
+ba9a38d (origin/images, images) HEAD@{12}: checkout: moving from develop to images
+fbffe84 HEAD@{13}: reset: moving to HEAD~1
+ba9a38d (origin/images, images) HEAD@{14}: merge images: Fast-forward
+d6128d9 HEAD@{15}: checkout: moving from styles to develop
+cf43dc0 HEAD@{16}: commit: Added empty styles source
+d6128d9 HEAD@{17}: checkout: moving from images to styles
+ba9a38d (origin/images, images) HEAD@{18}: checkout: moving from develop to images
+d6128d9 HEAD@{19}: checkout: moving from styles to develop
+d6128d9 HEAD@{20}: checkout: moving from develop to styles
+d6128d9 HEAD@{21}: checkout: moving from images to develop
+:
