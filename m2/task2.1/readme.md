@@ -1,5 +1,5 @@
 ##PART 1. HYPERVISORS##
-
+1. Oracle VM, Azure Virtual Machines, Hyper-V and vSphere
 
 ##PART 2. WORK WITH VIRTUALBOX
 
