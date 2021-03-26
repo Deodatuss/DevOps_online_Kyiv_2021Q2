@@ -25,15 +25,29 @@
 10. Launch and configure a WordPress instance with Amazon Lightsail.
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_bd0TBRJCvF.png)
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_WzGHPvQZGH.png)
+
+*Custom DNS requires a non-Free Tier RouteS3*
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_3pknx6CNyD.png)
  
-
 11. Review the 10-minute example Store and Retrieve a File. Repeat, creating your own repository.
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_c7HuVBZHT4.png)
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_dn50mTgqOQ.png)
+*Deleting training files and bucket*
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_8pRepaakAt.png)
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_EK4lRob7n8.png)
 
 12. Review the 10-minute example Batch upload files to the cloud to Amazon S3 using the AWS CLI. Create a user AWS IAM, configure CLI AWS and upload any files to S3.
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_QZvQNBgCm8.png)
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/cmd_6vSS1bKpCj.png)
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/cmd_ujyTolHyUr.png)
 
 13. Review the 10-minute example. Explore the possibilities of creating your own domain and domain name for your site.
+*Requires non-Free RouteS3*
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_KhuTjfKDoE.png)
 
 14. Review the 10-minute example Deploy Docker Containers on Amazon Elastic Container Service (Amazon ECS).
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_QIX8bePXQO.png)
+*Clearing ECS*
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_4AWsTktKBM.png)
 
 15. Create a static website on Amazon S3, publicly available. Post on the page your own photo, the name of the educational program (EPAM DevOps online Spring 2021), the list of AWS services with which the student worked within the educational program or earlier.
