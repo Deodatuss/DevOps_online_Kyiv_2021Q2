@@ -51,3 +51,4 @@
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_4AWsTktKBM.png)
 
 15. Create a static website on Amazon S3, publicly available. Post on the page your own photo, the name of the educational program (EPAM DevOps online Spring 2021), the list of AWS services with which the student worked within the educational program or earlier.
+\*Requires using a domain registered with Route 53).\*
