@@ -1,4 +1,6 @@
 # Module 3 Database Administration. TASK 3.1
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/msedge_xeYpzp1QSo.png)
+
 ## PART 1
 1. Download MySQL server for your OS on VM.
 2. Install MySQL server on VM.
