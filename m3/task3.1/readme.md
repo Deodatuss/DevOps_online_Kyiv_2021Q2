@@ -7,8 +7,8 @@
 3. Select a subject area and describe the database schema
 Area - information on players. First table - main info about a player (nickname, sign up time, last time he was online); Second - his balance (in-game currencies); Third - medals/achievements (their name and reward).
 4. Create a database on the server through the console.
- ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/VirtualBoxVM_GUmiBdQmLY.png)
- ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/VirtualBoxVM_Q68jtYdW7W.png)  
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/VirtualBoxVM_GUmiBdQmLY.png)
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/VirtualBoxVM_Q68jtYdW7W.png)  
 5. Fill in tables.
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/VirtualBoxVM_BoPO1mCV2D.png) 
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m2/task2.2/screenshots/VirtualBoxVM_RIMVg20N5o.png)  
