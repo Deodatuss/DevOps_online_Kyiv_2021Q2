@@ -14,12 +14,19 @@ as a new user and verify that the privileges allow or deny certain actions.
 
 ## PART 2
 10.Make backup of your database.
-11.Delete the table and/or part of the data in the table.
-12.Restore your database.
-13.Transfer your local database to RDS AWS.
-14.Connect to your database.
-15.Execute SELECT operator similar step 6.
-16.Create the dump of your database.
+11.
+12.Delete the table and/or part of the data in the table.
+13.
+14.Restore your database.
+15.
+16.Transfer your local database to RDS AWS.
+17.
+18.Connect to your database.
+19.
+20.Execute SELECT operator similar step 6.
+21.
+22.Create the dump of your database.
+23.
 
 ## PART 3
 17.Create an Amazon DynamoDB table
