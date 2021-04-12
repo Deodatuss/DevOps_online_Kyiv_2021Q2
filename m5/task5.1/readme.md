@@ -3,7 +3,7 @@
 1) Log in to the system as root.
 2) Used the passwd command to change the password.
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m5/task5.1/screenshots/5_1_task_1_1%262_1.png)
-![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m4/task4.2/screenshots/5_1_task_1_1%262_2.png)
+![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m5/task5.1/screenshots/5_1_task_1_1%262_2.png)
 3) Determined the users registered in the system, as well as what commands they
 execute.
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m5/task5.1/screenshots/5_1_task_1_3_1.png)
