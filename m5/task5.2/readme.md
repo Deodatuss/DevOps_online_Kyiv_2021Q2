@@ -1,4 +1,4 @@
-# Module 5 Linux Essentials. TASK 5.1
+# Module 5 Linux Essentials. TASK 5.2
 1) ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m5/task5.2/screenshots/5_2_task1.png)
 2) UID - user ID
 3) GID - group ID
