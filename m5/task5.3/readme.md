@@ -15,6 +15,6 @@
 14) nice and renice
 15) by pressing *r*, giving PID, and setting priority
 16) SIGTERM, SIGKILL, SIGHUP
-17) fg switches process to foreground, bg - to background
+17)  fg switches process to foreground, bg - to background
 in this scenario, bg will send *yes* cmd to background processing
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m5/task5.3/screenshots/5_3_task1-17.png)
