@@ -1,5 +1,5 @@
 # Module 6 Networking with Linux. TASK 6.2
-1) *task map
+1) *task map*
 2) Installed and configured DHCP server
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m6/task6.2/screenshots/6_2_task2(1).png)
 ![Image](https://github.com/Deodatuss/DevOps_online_Kyiv_2021Q2/blob/main/m6/task6.2/screenshots/6_2_task2(2).png)
