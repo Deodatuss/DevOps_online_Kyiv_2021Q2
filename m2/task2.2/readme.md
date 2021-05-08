@@ -52,4 +52,5 @@
 
 15. Create a static website on Amazon S3, publicly available. Post on the page your own photo, the name of the educational program (EPAM DevOps online Spring 2021), the list of AWS services with which the student worked within the educational program or earlier.
 \*Requires using a domain registered with Route 53).\*
+<br>
 <a href="http://deodatuss-website.s3-website.eu-central-1.amazonaws.com/" target="_blank"><b>deodatuss's static website</a>
